@@ -12,13 +12,13 @@
 - **Definition:** Malware that encrypts your data, demanding payment to restore access.
 - **Example Scenario:** Opening an attachment encrypts your files with a message demanding Bitcoin.
 - **Real World Example:** WannaCry ransomware attack on hospitals and businesses.
-- ![Ransomware Example](../assets/ransomware.png)
+- ![Ransomware Example](../images/ransomware.png)
 
 ### 3️⃣ Malware
 - **Definition:** Software designed to gain unauthorized access or cause damage.
 - **Example Scenario:** Downloading cracked software that installs a reverse shell for attackers.
 - **Real World Example:** Malware creating backdoors on Windows for persistent access.
-- ![Malware Example](../assets/malware.png)
+- ![Malware Example](../images/malware.png)
 
 ### 4️⃣ Social Engineering
 - **Definition:** Manipulating people to gain confidential information.
