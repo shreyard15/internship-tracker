@@ -6,14 +6,13 @@
 - **Definition:** Sending fraudulent emails resembling legitimate sources to steal sensitive information.
 - **Example Scenario:** You receive an email saying your university password will expire, urging you to click a fake link.
 - **Real World Example:** Email pretending to be from "MyUniversity" asking for login credentials.
-- ![Phishing Example](../assets/phishing.png)
+- ![Phishing Example](../images/phishing.png)
 
 ### 2️⃣ Ransomware
 - **Definition:** Malware that encrypts your data, demanding payment to restore access.
 - **Example Scenario:** Opening an attachment encrypts your files with a message demanding Bitcoin.
 - **Real World Example:** WannaCry ransomware attack on hospitals and businesses.
 - ![Ransomware Example](../images/ransomware.png)
-
 ### 3️⃣ Malware
 - **Definition:** Software designed to gain unauthorized access or cause damage.
 - **Example Scenario:** Downloading cracked software that installs a reverse shell for attackers.
