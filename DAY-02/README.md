@@ -12,7 +12,7 @@
 - **Definition:** Malware that encrypts your data, demanding payment to restore access.
 - **Example Scenario:** Opening an attachment encrypts your files with a message demanding Bitcoin.
 - **Real World Example:** WannaCry ransomware attack on hospitals and businesses.
-![Ransomware Example](../images/ransomware.png)
+- ![Ransomware Example](../images/ransomware.png)
 
 ### 3️⃣ Malware
 - **Definition:** Software designed to gain unauthorized access or cause damage.
